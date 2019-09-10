@@ -64,6 +64,9 @@ Constraint[Next][30]=BR-Mk2a-BSO
 Constraint[Next][31]=BR-Mk2a-RMB
 Constraint[Next][32]=BR-Mk2a-SO
 Constraint[Next][33]=BR-Mk2a-TSO
+Constraint[Next][34]=BR-Mk1-SLF
+Constraint[Next][35]=BR-Mk1-SLC
+Constraint[Next][36]=BR-Mk1-SLSTP
 
 Constraint[Prev][0]=LNER-Gresley-Express-Coach
 Constraint[Prev][1]=LNER-Gresley-Express-Brake-front
@@ -99,6 +102,9 @@ Constraint[Prev][30]=BR-Mk2a-BSO
 Constraint[Prev][31]=BR-Mk2a-RMB
 Constraint[Prev][32]=BR-Mk2a-SO
 Constraint[Prev][33]=BR-Mk2a-TSO
+Constraint[Prev][34]=BR-Mk1-SLF
+Constraint[Prev][35]=BR-Mk1-SLC
+Constraint[Prev][36]=BR-Mk1-SLSTP
 
 liverytype[0]=LNER-Standard
 liverytype[1]=BR-Early
