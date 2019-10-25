@@ -1,0 +1,54 @@
+# Original nbr sleeper carriage introduced in 1873
+# First revealed February, Entered service in April
+# Images based off:
+# https://media.gettyimages.com/photos/drawing-the-first-british-sleeping-car-was-built-by-north-british-at-picture-id90779473
+# https://www.diagram3d.com/image/cache/data/download/NBR%201873%20Sleeping%20Carriage/NBR%201873%20Sleeping%20Carriage-500x500.jpg
+# https://www.nbrstudygroup.co.uk/nbr/images/carriages_001.jpg
+
+# Composite
+obj=vehicle
+name=nbr-6wheel-sleeper
+speed=145
+copyright=Kieron/James/jamespetts
+intro_year=1873
+intro_month=4
+retire_year=1885
+retire_month=6
+waytype=track
+freight=Passagiere
+payload[0]=0
+payload[1]=0
+payload[2]=6
+payload[3]=6
+overcrowded_capacity=0
+length=5
+brake_force=0
+rolling_resistance=18
+
+weight=13
+axles=3
+cost=432000
+runningcost=0
+fixed_cost=695
+
+comfort[0]=0
+comfort[1]=0
+comfort[2]=70
+comfort[3]=140
+min_loading_time=90
+max_loading_time=240
+
+can_lead_from_rear=0
+bidirectional=1
+increase_maintenance_after_years=45
+
+Constraint[Next][0]=any
+
+EmptyImage[E]=./images/nbr-6wheel-sleeper_E.0.0
+EmptyImage[SE]=./images/nbr-6wheel-sleeper_SE.0.0
+EmptyImage[S]=./images/nbr-6wheel-sleeper_S.0.0
+EmptyImage[SW]=./images/nbr-6wheel-sleeper_SW.0.0
+EmptyImage[W]=./images/nbr-6wheel-sleeper_W.0.0
+EmptyImage[NW]=./images/nbr-6wheel-sleeper_NW.0.0
+EmptyImage[N]=./images/nbr-6wheel-sleeper_N.0.0
+EmptyImage[NE]=./images/nbr-6wheel-sleeper_NE.0.0
