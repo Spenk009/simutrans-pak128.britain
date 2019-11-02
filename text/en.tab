@@ -3372,6 +3372,8 @@ MR-clayton-8wheel-arc-roof-composite-lav
 Midland eight wheel bogie five compartment lavatory composite carriage (first/third class)
 MR-clayton-8wheel-arc-roof-mail
 Midland eight wheel bogie mail carriage
+MR-clayton-8wheel-arc-roof-sle
+Midland eight wheel bogie ten compartment sleeping carriage (first class)
 MR-clayton-8wheel-clerestory-third
 Midland eight wheel bogie seven compartment clerestory carriage (third class)
 MR-clayton-8wheel-clerestory-composite
@@ -4698,6 +4700,12 @@ LMS-period1-full-brake
 LMS mail/brake carriage
 LMS-period1-cor-diner
 LMS dining car
+LMS-period1-sle-first
+LMS sleeping carriage (first class)
+LMS-period1-sle-third
+LMS sleeping carriage (third class)
+LMS-period1-sle-composite
+LMS sleeping carriage (first/third class)
 LMS-non-cor-lav
 LMS eight compartment lavatory composite carriage (first/third class)
 LMS-non-cor-lav-first
