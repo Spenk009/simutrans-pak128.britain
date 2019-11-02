@@ -12,8 +12,9 @@ speed=145
 copyright=Kieron/James/jamespetts
 intro_year=1873
 intro_month=4
-retire_year=1885
-retire_month=6
+retire_year=1887
+retire_month=11
+# retiring originally 1885/6
 waytype=track
 freight=Passagiere
 payload[0]=0
