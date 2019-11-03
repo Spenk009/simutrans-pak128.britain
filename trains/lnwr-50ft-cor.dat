@@ -80,6 +80,9 @@ Constraint[Next][42]=LMS-open-first
 Constraint[Next][43]=LMS-open-composite
 Constraint[Next][44]=LMS-cor-first
 Constraint[Next][45]=LMS-cor-composite
+Constraint[Next][46]=LMS-period1-sle-first
+Constraint[Next][47]=LMS-period1-sle-third
+Constraint[Next][48]=LMS-period1-sle-composite
 
 Constraint[Prev][0]=LNWR-45ft-cor-full-brake
 Constraint[Prev][1]=LNWR-42ft-cor
@@ -127,6 +130,9 @@ Constraint[Prev][42]=LMS-open-first
 Constraint[Prev][43]=LMS-open-composite
 Constraint[Prev][44]=LMS-cor-first
 Constraint[Prev][45]=LMS-cor-composite
+Constraint[Prev][46]=LMS-period1-sle-first
+Constraint[Prev][47]=LMS-period1-sle-third
+Constraint[Prev][48]=LMS-period1-sle-composite
 
 liverytype[0]=LNWR-Black
 liverytype[1]=LMS-Standard
@@ -230,6 +236,9 @@ Constraint[Next][42]=LMS-open-first
 Constraint[Next][43]=LMS-open-composite
 Constraint[Next][44]=LMS-cor-first
 Constraint[Next][45]=LMS-cor-composite
+Constraint[Next][46]=LMS-period1-sle-first
+Constraint[Next][47]=LMS-period1-sle-third
+Constraint[Next][48]=LMS-period1-sle-composite
 
 Constraint[Prev][0]=LNWR-45ft-cor-full-brake
 Constraint[Prev][1]=LNWR-42ft-cor
@@ -277,6 +286,9 @@ Constraint[Prev][42]=LMS-open-first
 Constraint[Prev][43]=LMS-open-composite
 Constraint[Prev][44]=LMS-cor-first
 Constraint[Prev][45]=LMS-cor-composite
+Constraint[Prev][46]=LMS-period1-sle-first
+Constraint[Prev][47]=LMS-period1-sle-third
+Constraint[Prev][48]=LMS-period1-sle-composite
 
 liverytype[0]=LNWR-Black
 liverytype[1]=LMS-Standard
