@@ -1,6 +1,10 @@
 #Keeping the GER name for organizational purposes
 obj=vehicle
+<<<<<<< HEAD
 name=ger-4wheel-1858-first3
+=======
+name=ger-4-wheel-1858-first3
+>>>>>>> e855e601a... Added GER 4 wheel and 6 wheel carriages, ranging from 1858 to 1903.
 speed=125
 copyright=Jeremy
 intro_year=1858
@@ -64,7 +68,11 @@ EmptyImage[NE][1]=./carriages/ger-4wheel-1858-first3-m_NE.0.0
 ---
 
 obj=vehicle
+<<<<<<< HEAD
 name=ger-4wheel-1858-first4
+=======
+name=ger-4-wheel-1858-first4
+>>>>>>> e855e601a... Added GER 4 wheel and 6 wheel carriages, ranging from 1858 to 1903.
 speed=125
 copyright=Jeremy
 intro_year=1858
@@ -325,7 +333,12 @@ freight=Passagiere
 payload[0]=0
 payload[1]=0
 payload[2]=0
+<<<<<<< HEAD
 payload[3]=6
+=======
+payload[3]=0
+payload[4]=6
+>>>>>>> e855e601a... Added GER 4 wheel and 6 wheel carriages, ranging from 1858 to 1903.
 overcrowded_capacity=0
 length=4
 brake_force=0
@@ -342,7 +355,12 @@ fixed_cost=276
 comfort[0]=0
 comfort[1]=0
 comfort[2]=0
+<<<<<<< HEAD
 comfort[3]=100
+=======
+comfort[3]=0
+comfort[4]=100
+>>>>>>> e855e601a... Added GER 4 wheel and 6 wheel carriages, ranging from 1858 to 1903.
 min_loading_time=17
 max_loading_time=47
 
@@ -522,7 +540,11 @@ EmptyImage[N][1]=./carriages/ger-4wheel-1858-brake-16-rev-m_N.0.0
 EmptyImage[NE][1]=./carriages/ger-4wheel-1858-brake-16-rev-m_NE.0.0
 ---
 
+<<<<<<< HEAD
 #end of convoy
+=======
+#beginning of convoy
+>>>>>>> e855e601a... Added GER 4 wheel and 6 wheel carriages, ranging from 1858 to 1903.
 obj=vehicle
 name=ger-4-wheel-1858-brake-21-rev
 speed=125

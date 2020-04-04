@@ -4576,9 +4576,15 @@ MR-Clerestory-Brake
 Midland clerestory carriage (brake)
 MR-Clerestory-Coach
 Midland clerestory carriage
+<<<<<<< HEAD
 ger-4wheel-1858-first3
 GER 4 wheel 24ft three compartment carriage (first class)
 ger-4wheel-1858-first4
+=======
+ger-4-wheel-1858-first3
+GER 4 wheel 24ft three compartment carriage (first class)
+ger-4-wheel-1858-first4
+>>>>>>> e855e601a... Added GER 4 wheel and 6 wheel carriages, ranging from 1858 to 1903.
 GER 4 wheel 24ft four compartment carriage (first class)
 ger-4-wheel-1858-24ft-second
 GER 4 wheel 24ft five compartment carriage (second class)
@@ -4596,6 +4602,93 @@ ger-4-wheel-1858-brake-16-rev
 GER 4 wheel 16ft brake carriage
 ger-4-wheel-1858-brake-21-rev
 GER 4 wheel 21ft brake carriage
+<<<<<<< HEAD
+=======
+ger-4-wheel-1867-first
+GER 4 wheel 24ft four compartment carriage (first class)
+ger-4-wheel-1867-24ft-third
+GER 4 wheel 24ft five compartment carriage (third class)
+ger-4-wheel-1867-21ft-second
+GER 4 wheel 21ft four compartment carriage (second class)
+ger-4-wheel-1870-26ft-first
+GER 4 wheel 26ft four compartment carriage (first class)
+ger-4-wheel-1870-26ft-second
+GER 4 wheel 26ft five compartment carriage (second class)
+ger-4-wheel-1870-26ft-third
+GER 4 wheel 26ft five compartment carriage (third class)
+ger-4-wheel-1875-saloon
+GER 6 wheel 33ft saloon carriage
+ger-4-wheel-1867-brake-for
+GER 4 wheel 22ft three compartment brake composite carriage (third class)
+ger-4-wheel-1867-brake-rev
+GER 4 wheel 22ft three compartment brake composite carriage (third class)
+ger-4-wheel-1876-first
+GER 4 wheel 27ft four compartment carriage (first class)
+ger-4-wheel-1876-third
+GER 4 wheel 27ft five compartment carriage (third class)
+ger-4-wheel-1876-second
+GER 4 wheel 27ft five compartment carriage (second class)
+ger-4-wheel-1876-com1
+GER 4 wheel 27ft four compartment composite carriage (second/third class)
+ger-4-wheel-1876-com2
+GER 4 wheel 27ft four compartment composite carriage (second/third class)
+ger-4-wheel-1876-brake-for
+GER 4 wheel 27ft three compartment brake composite carriage (third class)
+ger-4-wheel-1876-brake-rev
+GER 4 wheel 27ft three compartment brake composite carriage (third class)
+ger-4-wheel-fitted-first
+GER 4 wheel 27ft four compartment composite carriage (first class) (continuously braked)
+ger-4-wheel-fitted-third
+GER 4 wheel 27ft five compartment composite carriage (third class) (continuously braked)
+ger-4-wheel-fitted-second
+GER 4 wheel 27ft four compartment composite carriage (second class) (continuously braked)
+ger-4-wheel-fitted-com1
+GER 4 wheel 27ft four compartment composite carriage (second/third class) (continuously braked)
+ger-4-wheel-fitted-com2
+GER 4 wheel 27ft four compartment composite carriage (second/third class) (continuously braked)
+ger-4-wheel-fitted-brake-third-for
+GER 4 wheel 27ft three compartment brake composite carriage (third class) (continuously braked)
+ger-4-wheel-fitted-brake-third-rev
+GER 4 wheel 27ft three compartment brake composite carriage (third class) (continuously braked)
+ger-6-wheel-1875-saloon
+GER 6 wheel 34ft saloon carriage
+ger-6-wheel-1880-first
+GER 6 wheel 31ft 6in four compartment carriage (first class)
+ger-6-wheel-1880-second
+GER 6 wheel 31ft 6in five compartment carriage (second class)
+ger-6-wheel-1880-com
+GER 6 wheel 31ft 6in five compartment composite carriage (first/second class)
+ger-6-wheel-1880-com-lav
+GER 6 wheel 31ft 6in five compartment lavatory composite carriage (first/second class)
+ger-6-wheel-1880-brake-for
+GER 6 wheel 31ft 6in brake carriage
+ger-6-wheel-1880-brake-rev
+GER 6 wheel 31ft 6in brake carriage
+ger-6-wheel-1883-third
+GER 6 wheel 34ft six compartment carriage (third class)
+ger-6-wheel-1886-first
+GER 6 wheel 31ft 6in four compartment carriage (first class)
+ger-6-wheel-1886-second
+GER 6 wheel 31ft 6in five compartment carriage (second class)
+ger-6-wheel-1886-second
+GER 6 wheel 34ft five compartment lavatory carriage (second class)
+ger-6-wheel-1886-com
+GER 6 wheel 31ft 6in four compartment composite carriage (first/second class)
+ger-6-wheel-1886-com-lav
+GER 6 wheel 31ft 6in five compartment lavatory composite carriage (first/second class)
+ger-6-wheel-1886-third
+GER 6 wheel 34ft six compartment carriage (third class)
+ger-6-wheel-1886-third
+GER 6 wheel 34ft five compartment lavatory carriage (third class)
+ger-6-wheel-1886-brake-third-for
+GER 6 wheel 34ft three compartment composite brake carriage (third class)
+ger-6-wheel-1886-brake-third-rev
+GER 6 wheel 34ft three compartment composite brake carriage (third class)
+ger-6-wheel-1896-brake-second-for
+GER 6 wheel 34ft three compartment composite brake carriage (second class)
+ger-6-wheel-1896-brake-second-rev
+GER 6 wheel 34ft three compartment composite brake carriage (second class)
+>>>>>>> e855e601a... Added GER 4 wheel and 6 wheel carriages, ranging from 1858 to 1903.
 Teak-Clerestory-Brake
 GER five compartment corridor clerestory brake carriage
 Teak-Clerestory-Coach
