@@ -1,0 +1,57 @@
+Obj=building
+Name=RES_KG_1885_01_06
+copyright=Kieron
+type=res
+chance=100
+population_and_visitor_demand_capacity=56
+Level=6
+# Terraces
+class_proportion[0]=50
+class_proportion[1]=50
+class_proportion[2]=0
+class_proportion[3]=0
+class_proportion[4]=0
+intro_year=1880
+retire_year=1900
+needs_ground=1
+dims=1,1,4
+clusters=9
+
+BackImage[2][0][0][0][0][0]=images/res/1885-terrace-row-house-2f_N.0.0
+BackImage[1][0][0][0][0][0]=images/res/1885-terrace-row-house-2f_E.0.0
+BackImage[0][0][0][0][0][0]=images/res/1885-terrace-row-house-2f_S.0.0
+BackImage[3][0][0][0][0][0]=images/res/1885-terrace-row-house-2f_W.0.0
+BackImage[2][0][0][0][0][1]=images/res/1885-terrace-row-house-2f_N.0.0
+BackImage[1][0][0][0][0][1]=images/res/1885-terrace-row-house-2f_E.0.0
+BackImage[0][0][0][0][0][1]=images/res/1885-terrace-row-house-2f_S.0.0
+BackImage[3][0][0][0][0][1]=images/res/1885-terrace-row-house-2f_W.0.0
+
+---
+
+Obj=building
+Name=RES_KG_1885_01_07
+copyright=Kieron
+type=res
+chance=100
+population_and_visitor_demand_capacity=56
+Level=6
+# Terraces
+class_proportion[0]=50
+class_proportion[1]=50
+class_proportion[2]=0
+class_proportion[3]=0
+class_proportion[4]=0
+intro_year=1880
+retire_year=1900
+needs_ground=1
+dims=1,1,4
+clusters=9
+
+BackImage[2][0][0][0][0][0]=images/res/1885-terrace-row shop_N.0.0
+BackImage[1][0][0][0][0][0]=images/res/1885-terrace-row shop_E.0.0
+BackImage[0][0][0][0][0][0]=images/res/1885-terrace-row shop_S.0.0
+BackImage[3][0][0][0][0][0]=images/res/1885-terrace-row shop_W.0.0
+BackImage[2][0][0][0][0][1]=images/res/1885-terrace-row shop_N.0.0
+BackImage[1][0][0][0][0][1]=images/res/1885-terrace-row shop_E.0.0
+BackImage[0][0][0][0][0][1]=images/res/1885-terrace-row shop_S.0.0
+BackImage[3][0][0][0][0][1]=images/res/1885-terrace-row shop_W.0.0
